@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Duaren Blog</title>
+    <link>https://duaren.github.io/blog/page/</link>
+    <description>Recent content in Pages on Duaren Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 05 Jun 2022 19:45:53 +0100</lastBuildDate><atom:link href="https://duaren.github.io/blog/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>https://duaren.github.io/blog/page/projects/</link>
+      <pubDate>Sun, 05 Jun 2022 19:45:53 +0100</pubDate>
+      
+      <guid>https://duaren.github.io/blog/page/projects/</guid>
+      <description>My Porfolio site
+Free Code Camp
+10PSD Design to HTML CSS &amp;amp; JS
+Benin Online TV
+CRYPTO</description>
+    </item>
+    
+    <item>
+      <title>Certifications</title>
+      <link>https://duaren.github.io/blog/page/certifications/</link>
+      <pubDate>Sat, 04 Jun 2022 05:26:14 +0100</pubDate>
+      
+      <guid>https://duaren.github.io/blog/page/certifications/</guid>
+      <description>2020 NSE 1 Network Security Associate Issued by Fortinet, Inc
+Credential ID: 5CF9rt7Q6P
+See credential
+NSE 2 Network Security Associate Issued by Fortinet, Inc
+Credential ID: 7a0LbULF2A
+See credential</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://duaren.github.io/blog/page/about/</link>
+      <pubDate>Tue, 31 May 2022 13:18:45 +0100</pubDate>
+      
+      <guid>https://duaren.github.io/blog/page/about/</guid>
+      <description>Duaren is a Software Engineer. Follow his journey on Duaren Portfolio.
+I&amp;rsquo;m Junior Frontend developer, passionate about creating and developing web interfaces. So far, I&amp;rsquo;m a Tech guy who also intersted in Cloud computing and Web technologies.</description>
+    </item>
+    
+    <item>
+      <title>Porfolio</title>
+      <link>https://duaren.github.io/blog/page/porfolio/</link>
+      <pubDate>Tue, 31 May 2022 13:17:56 +0100</pubDate>
+      
+      <guid>https://duaren.github.io/blog/page/porfolio/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

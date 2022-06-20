@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Duaren Blog</title>
+    <link>https://duaren.github.io/blog/tags/</link>
+    <description>Recent content in Tags on Duaren Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 06 Jun 2022 10:41:33 +0100</lastBuildDate><atom:link href="https://duaren.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown Syntax</title>
+      <link>https://duaren.github.io/blog/tags/markdown-syntax/</link>
+      <pubDate>Mon, 06 Jun 2022 10:41:33 +0100</pubDate>
+      
+      <guid>https://duaren.github.io/blog/tags/markdown-syntax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Github pages</title>
+      <link>https://duaren.github.io/blog/tags/github-pages/</link>
+      <pubDate>Mon, 06 Jun 2022 10:38:04 +0100</pubDate>
+      
+      <guid>https://duaren.github.io/blog/tags/github-pages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lofi girl</title>
+      <link>https://duaren.github.io/blog/tags/lofi-girl/</link>
+      <pubDate>Wed, 01 Jun 2022 20:58:40 +0100</pubDate>
+      
+      <guid>https://duaren.github.io/blog/tags/lofi-girl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>free speech</title>
+      <link>https://duaren.github.io/blog/tags/free-speech/</link>
+      <pubDate>Wed, 01 Jun 2022 18:01:14 +0100</pubDate>
+      
+      <guid>https://duaren.github.io/blog/tags/free-speech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>search engine</title>
+      <link>https://duaren.github.io/blog/tags/search-engine/</link>
+      <pubDate>Tue, 31 May 2022 13:05:27 +0100</pubDate>
+      
+      <guid>https://duaren.github.io/blog/tags/search-engine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eilean Donan Castle</title>
+      <link>https://duaren.github.io/blog/tags/eilean-donan-castle/</link>
+      <pubDate>Mon, 01 Nov 2021 18:01:26 +0100</pubDate>
+      
+      <guid>https://duaren.github.io/blog/tags/eilean-donan-castle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Glennfinnan Viaduct</title>
+      <link>https://duaren.github.io/blog/tags/glennfinnan-viaduct/</link>
+      <pubDate>Mon, 01 Nov 2021 18:01:26 +0100</pubDate>
+      
+      <guid>https://duaren.github.io/blog/tags/glennfinnan-viaduct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scotland</title>
+      <link>https://duaren.github.io/blog/tags/scotland/</link>
+      <pubDate>Mon, 01 Nov 2021 18:01:26 +0100</pubDate>
+      
+      <guid>https://duaren.github.io/blog/tags/scotland/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

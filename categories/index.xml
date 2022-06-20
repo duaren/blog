@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Duaren Blog</title>
+    <link>https://duaren.github.io/blog/categories/</link>
+    <description>Recent content in Categories on Duaren Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 06 Jun 2022 10:41:33 +0100</lastBuildDate><atom:link href="https://duaren.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Code</title>
+      <link>https://duaren.github.io/blog/categories/code/</link>
+      <pubDate>Mon, 06 Jun 2022 10:41:33 +0100</pubDate>
+      
+      <guid>https://duaren.github.io/blog/categories/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://duaren.github.io/blog/categories/markdown/</link>
+      <pubDate>Mon, 06 Jun 2022 10:41:33 +0100</pubDate>
+      
+      <guid>https://duaren.github.io/blog/categories/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorials</title>
+      <link>https://duaren.github.io/blog/categories/tutorials/</link>
+      <pubDate>Mon, 06 Jun 2022 10:41:33 +0100</pubDate>
+      
+      <guid>https://duaren.github.io/blog/categories/tutorials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Github</title>
+      <link>https://duaren.github.io/blog/categories/github/</link>
+      <pubDate>Mon, 06 Jun 2022 10:38:04 +0100</pubDate>
+      
+      <guid>https://duaren.github.io/blog/categories/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beat</title>
+      <link>https://duaren.github.io/blog/categories/beat/</link>
+      <pubDate>Wed, 01 Jun 2022 20:58:40 +0100</pubDate>
+      
+      <guid>https://duaren.github.io/blog/categories/beat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>https://duaren.github.io/blog/categories/music/</link>
+      <pubDate>Wed, 01 Jun 2022 20:58:40 +0100</pubDate>
+      
+      <guid>https://duaren.github.io/blog/categories/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video</title>
+      <link>https://duaren.github.io/blog/categories/video/</link>
+      <pubDate>Wed, 01 Jun 2022 20:58:40 +0100</pubDate>
+      
+      <guid>https://duaren.github.io/blog/categories/video/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy</title>
+      <link>https://duaren.github.io/blog/categories/privacy/</link>
+      <pubDate>Wed, 01 Jun 2022 18:01:14 +0100</pubDate>
+      
+      <guid>https://duaren.github.io/blog/categories/privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Society</title>
+      <link>https://duaren.github.io/blog/categories/society/</link>
+      <pubDate>Wed, 01 Jun 2022 18:01:14 +0100</pubDate>
+      
+      <guid>https://duaren.github.io/blog/categories/society/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Holidays</title>
+      <link>https://duaren.github.io/blog/categories/holidays/</link>
+      <pubDate>Mon, 01 Nov 2021 18:01:26 +0100</pubDate>
+      
+      <guid>https://duaren.github.io/blog/categories/holidays/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travelling</title>
+      <link>https://duaren.github.io/blog/categories/travelling/</link>
+      <pubDate>Mon, 01 Nov 2021 18:01:26 +0100</pubDate>
+      
+      <guid>https://duaren.github.io/blog/categories/travelling/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

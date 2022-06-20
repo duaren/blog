@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code on Duaren Blog</title>
+    <link>https://duaren.github.io/blog/categories/code/</link>
+    <description>Recent content in Code on Duaren Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 06 Jun 2022 10:41:33 +0100</lastBuildDate><atom:link href="https://duaren.github.io/blog/categories/code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown Syntax</title>
+      <link>https://duaren.github.io/blog/article/markdown-syntax/</link>
+      <pubDate>Mon, 06 Jun 2022 10:41:33 +0100</pubDate>
+      
+      <guid>https://duaren.github.io/blog/article/markdown-syntax/</guid>
+      <description>To start creating page and content using maarkdown syntax just follow this simple examples&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
